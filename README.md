@@ -18,12 +18,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-<ul>
-<li>Microsoft Azure</li>
-<li>Virtual Machine</li>
-<li>osTicket Installation Files</li>
-</ul>
 
+1. **Azure Account**
+2. **Remote Desktop Client**
+3. **osTicket Installation Files**: [link](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 <h2>Installation Steps</h2>
 
 <p>
