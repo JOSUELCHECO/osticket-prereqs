@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p align="center">
-<img src="https://i.imgur.com/NbQvYeL.png.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/toTEPOp.png.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 
@@ -49,7 +49,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	- Open the Web Platform Installer
 
 <p align="center">
-<img src="https://i.imgur.com/0On2vKd.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/V4p94mP.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/scwLxtX.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/HbvqelI.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 - Once Web Platform Installer is open, go to the top right of the screen and search for MySQL 5.5
@@ -60,7 +60,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Select Install at the bottom of the screen and it will tell you to create a username and password to complete the installation
 
 <p align="center">
-<img src="https://i.imgur.com/uWAVcRG.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/MQmZfht.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/QDiipij.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/Di38HG9.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 
@@ -76,7 +76,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p align="center">
-<img src="https://i.imgur.com/zAPFRmU.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/DUiyQdt.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/zAPFRmU.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/BsAVCTA.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
