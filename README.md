@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p align="center">
-<img src="https://i.imgur.com/toTEPOp.png.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/yhVxe9M.png.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 
@@ -90,7 +90,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p align="center">
-<img src="https://i.imgur.com/BpL8IJE.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/xSJD7yk.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/HX4jNSh.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/vqnBULt.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
  
      
@@ -108,7 +108,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p align="center">
-<img src="https://i.imgur.com/OpBkwwj.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/XNVSNia.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/OpBkwwj.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/dRq4Q9r.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 <h3>Step 6: Enable Extensions in IIS
@@ -125,7 +125,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
      
  <p align="center">
-<img src="https://i.imgur.com/GQfPOU8.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/iCK6vst.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/PYxsSSu.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/VqPTLk9.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 <h3>Step 7: Refresh the osTicket Site in Your Browser
@@ -149,7 +149,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p align="center">
-<img src="https://i.imgur.com/DDTR8CD.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/wtBhTYE.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 <h3>Step 9: Assign Permissions to ost-config.php</h3>
 
@@ -164,7 +164,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	- Allow everyone full control (check all boxes) > Select apply > OK
 
 <p align="center">
-<img src="https://i.imgur.com/vUlpzTb.png" height="70%" width=70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/WZrk1F7.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/9JgraCm.png" height="70%" width=70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/WZrk1F7.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
   
@@ -180,7 +180,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Password: Password1 
   
 <p align="center">
-<img src="https://i.imgur.com/1GfpPLs.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/NC7DWfZ.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 <h3>Step 11: Download and Install HeidiSQL</h3>
 
@@ -194,7 +194,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Name it “osTicket” and select OK
 
  <p align="center">
-<img src="https://i.imgur.com/mDBWQ5k.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/ADJYQyB.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/mDBWQ5k.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/s3CpLVL.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 <h3>Step 12: Continue Setting Up osTicket by Filling Out the Fields</h3>
@@ -230,7 +230,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	- Allow everyone to only have "Read and execute" permission, then select OK > Apply > OK
 	
  <p align="center">
-<img src="https://i.imgur.com/wucT3UN.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/cPSx6VL.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/fm458Mb.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/cPSx6VL.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>	
 
 
